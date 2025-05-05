@@ -1,0 +1,20 @@
+# 概况
+
+DSL Query的分类
+
+Elasticsearch提供了基础json的DSL（Domain Specific Language）来定义查询。常见的查询类型包括：
+
+官方文档地址： [Tutorial: Full-text search and filtering with Query DSL | Elastic Docs](https://www.elastic.co/docs/solutions/search/querydsl-full-text-filter-tutorial)
+
+
+
+### Lucene查询
+
+
+
+
+
+### SPL查询
+
+
+
